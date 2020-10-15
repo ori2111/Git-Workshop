@@ -1,2 +1,2 @@
 # Git-Workshop
-Code for Workshop on Git Basics 
+List of people who attended this workshop
